@@ -1,0 +1,58 @@
+# DNS-Filterliste (Blockliste) für Pi hole
+# github.com/replay45
+# Link zur Blockliste: https://github.com/replay45/DNS-Filterlisten
+# Lizenz: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+# Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
+# Weitere Infos: siehe GitHub-Repository
+# erstellt am 5.5.2025
+# letztes Update: 6.5.2025
+
+
+
+# Ad- & Werbenetzwerke
+delivery.openx.net
+a.openx.net
+secure.adnxs.com
+ads.pubmatic.com
+ib.adnxs.com
+static.criteo.net
+cas.criteo.com
+pixel.quantserve.com
+edge.quantserve.com
+delivery.rubiconproject.com
+fastlane.rubiconproject.com
+
+
+
+# Web-Analytics & Session-Replay
+mc.yandex.ru
+mc.yandex.com
+cdn.mxpnl.com
+api.mixpanel.com
+api.amplitude.com
+d1.amplitude.com
+script.hotjar.com
+in.hotjar.com
+browser.sentry-cdn.com
+sentry.io
+cdn.segment.com
+api.segment.io
+
+
+
+# APM & Entwickler-Telemetrie
+js-agent.newrelic.com
+bam.nr-data.net
+logs.browser-intake-datadoghq.com
+raygun.io
+saas.appdynamics.com
+
+
+
+# Sonstige CDN-basierte Trackingskripte
+tags.tiqcdn.com
+widget.intercom.io
+mcdn.intercom.io
+js.driftt.com
+
+
