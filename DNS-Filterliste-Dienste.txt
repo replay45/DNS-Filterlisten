@@ -1,0 +1,17 @@
+# DNS-Filterliste (Blockliste) für Pi hole
+# github.com/replay45
+# Link zur Blockliste: https://github.com/replay45/DNS-Filterlisten
+# Lizenz: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+# Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
+# Weitere Infos: siehe GitHub-Repository
+# erstellt am 5.5.2025
+# letztes Update: 6.5.2025
+
+
+
+# chinesische Dienste
+www.163.com
+www.qq.com
+www.sohu.com
+www.baidu.com
+www.sina.com
