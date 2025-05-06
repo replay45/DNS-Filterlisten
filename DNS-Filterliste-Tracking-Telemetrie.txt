@@ -1,0 +1,118 @@
+# DNS-Filterliste (Blockliste) für Pi hole
+# github.com/replay45
+# Link zur Blockliste: https://github.com/replay45/DNS-Filterlisten
+# Lizenz: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+# Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
+# Weitere Infos: siehe GitHub-Repository
+# erstellt am 5.5.2025
+# letztes Update: 6.5.2025
+
+
+
+# Microsoft - Tracking/Telemetrie
+bingads.microsoft.com
+advertise.bingads.microsoft.com
+mobile.events.data.microsoft.com
+v10.events.data.microsoft.com
+settings-win.data.microsoft.com
+vortex.data.microsoft.com
+telemetry.microsoft.com
+telecommand.telemetry.microsoft.com
+
+
+
+# Google - Tracking/Telemetrie
+ads.google.com
+adservice.google.com
+stats.g.doubleclick.net
+doubleclick.net
+googleadservices.com
+region1.google-analytics.com
+connectivitycheck.gstatic.com
+www.google-analytics.com
+googletagservices.com
+2mdn.net
+www.googletagmanager.com
+www.googleoptimize.com
+
+
+# Andoroid Apps - firebase - Tracking/Telemetrie
+firebaseinstallations.googleapis.com
+firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
+pagead2.googlesyndication.com
+firebaseremoteconfig.googleapis.com
+crashlyticsreports-pa.googleapis.com
+
+
+
+# Samsung - Tracking/Telemetrie
+samsungads.com
+ads.samsungads.com
+config.samsungads.com
+insights.samsung.com
+analytics.bigdata.samsung.com
+analytics.samsungknox.com
+
+
+
+# Apps / online Dienste - Tracking/Telemetrie
+static.cloudflareinsights.com
+static.twitchcdn.net
+crashreporter.tk.de
+lapi.photomath.net
+tracking.komoot.de
+pathfinder.analytics.komoot.net
+analytics.twitter.com
+analytics.snapchat.com
+app-analytics-v2.snapchat.com
+analytics.linkedin.com
+ct.pinterest.com
+analytics.pinterest.com
+pixel.reddit.com
+log.tiktok.com
+analytics.tiktok.com
+
+
+
+# Meta - Tracking/Telemetrie
+graph-fallback.instagram.com
+graph.instagram.com
+ads.instagram.com
+pixel.facebook.com
+graph.facebook.com
+ads.facebook.com
+
+
+
+# Amazon - Tracking/Telemetrie
+amazon-adsystem.com
+fls-na.amazon.com
+d1.awsstatic.com
+aax-eu.amazon-adsystem.com
+track.amazon.com
+c.amazon-adsystem.com
+metrics.amazon.com
+x.amazon.com
+
+
+
+# Adobe - Tracking/Telemetrie
+adobetag.com
+
+
+
+# Gaming Dienste - Tracking/Telemetrie
+analytics.faceitanalytics.com
+tracking.epicgames.com
+
+
+
+# Apple - Tracking/Telemetrie
+analytics.dortania.com
+weather-analytics-events.apple.com
+static.gc.apple.com
+gsp10-ssl.ls.apple.com
+stats.ls.apple.com
+
+
