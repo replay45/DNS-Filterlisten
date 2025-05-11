@@ -5,64 +5,112 @@
 # Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 # Weitere Infos: siehe GitHub-Repository
 # erstellt am 5.5.2025
-# letztes Update: 6.5.2025
+# letztes Update: 10.5.2025
 
 
 
-# Microsoft - Tracking/Telemetrie
-bingads.microsoft.com
-advertise.bingads.microsoft.com
+# -------------------------------------------------
+#  Microsoft - Tracking/Telemetrie
+# -------------------------------------------------
+
+# Microsoft - Windows - Tracking/Telemetrie
 mobile.events.data.microsoft.com
 v10.events.data.microsoft.com
+self.events.data.microsoft.com
 settings-win.data.microsoft.com
 vortex.data.microsoft.com
 telemetry.microsoft.com
 telecommand.telemetry.microsoft.com
+watson.telemetry.microsoft.com
+
+# Microsoft Edge (Browser) & Bing (Suchmaschine) - Tracking/Telemetrie/Fingerprinting
+bingads.microsoft.com
+advertise.bingads.microsoft.com
+browser.events.data.microsoft.com
+telemetry.appex.bing.net
+bat.bing.com
+r.bing.com
+t-ring-fallback.msedge.net
+fp.msedge.net
+
+# Microsoft Xbox und Xbox Live - Tracking/Telemetrie
+telemetry.xboxlive.com
+xboxtracking.com
 
 
 
-# Google - Tracking/Telemetrie
-ads.google.com
-adservice.google.com
+# -------------------------------------------------
+# Google - Tracking/Telemetrie/Werbung
+# -------------------------------------------------
+
+# Google - Tracking
 stats.g.doubleclick.net
 doubleclick.net
-googleadservices.com
-region1.google-analytics.com
-connectivitycheck.gstatic.com
 www.google-analytics.com
 googletagservices.com
-2mdn.net
 www.googletagmanager.com
 www.googleoptimize.com
 
+# Google - Telemetrie
+region1.google-analytics.com
+region2.google-analytics.com
+connectivitycheck.gstatic.com
+analytics.google.com
+
+# Google - Werbung
+ads.google.com
+adservice.google.com
+googleadservices.com
+pagead2.googlesyndication.com
+securepubads.g.doubleclick.net
+partner.googleadservices.com
+2mdn.net
+
+
+
+# -------------------------------------------------
+# Andoroid Apps - Google-firebase - Tracking/Telemetrie
+# -------------------------------------------------
 
 # Andoroid Apps - firebase - Tracking/Telemetrie
+crashlyticsreports-pa.googleapis.com
+firebase.googleapis.com
 firebaseinstallations.googleapis.com
 firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
-pagead2.googlesyndication.com
 firebaseremoteconfig.googleapis.com
-crashlyticsreports-pa.googleapis.com
+firebaseinappmessaging.googleapis.com
 
 
 
+# -------------------------------------------------
 # Samsung - Tracking/Telemetrie
+# -------------------------------------------------
+
+# Samsung - Werbung
 samsungads.com
 ads.samsungads.com
 config.samsungads.com
+
+# Samsung - Tracking/Telemetrie
 insights.samsung.com
 analytics.bigdata.samsung.com
+
+# Samsungknox - Tracking/Telemetrie
 analytics.samsungknox.com
 
 
 
+# -------------------------------------------------
 # Apps / online Dienste - Tracking/Telemetrie
-static.cloudflareinsights.com
-static.twitchcdn.net
+# -------------------------------------------------
+
+# Apps - Tracking/Telemetrie
 crashreporter.tk.de
 lapi.photomath.net
 tracking.komoot.de
 pathfinder.analytics.komoot.net
+static.twitchcdn.net
 analytics.twitter.com
 analytics.snapchat.com
 app-analytics-v2.snapchat.com
@@ -75,44 +123,113 @@ analytics.tiktok.com
 
 
 
+# -------------------------------------------------
 # Meta - Tracking/Telemetrie
+# -------------------------------------------------
+
+# Instagram - Tracking/Telemetrie
 graph-fallback.instagram.com
 graph.instagram.com
 ads.instagram.com
+
+# Facebook - Tracking/Telemetrie
 pixel.facebook.com
 graph.facebook.com
 ads.facebook.com
+business.facebook.com
+analytics.facebook.com
 
 
 
-# Amazon - Tracking/Telemetrie
+# -------------------------------------------------
+# Amazon - Tracking/Telemetrie/Werbung
+# -------------------------------------------------
+
+# Amazon - Werbung
 amazon-adsystem.com
-fls-na.amazon.com
-d1.awsstatic.com
 aax-eu.amazon-adsystem.com
-track.amazon.com
 c.amazon-adsystem.com
+
+# Amazon - Tracking
+fls-na.amazon.com
+track.amazon.com
+
+# Amazon Web Services (AWS) und Performance-Messung
+d1.awsstatic.com
 metrics.amazon.com
+
+# Amazon - User-Agent-Tracking
 x.amazon.com
 
 
 
+# -------------------------------------------------
+# Browser
+# -------------------------------------------------
+
+# Firefox
+location.services.mozilla.com
+telemetry.mozilla.org
+crash-reports.mozilla.com
+
+# Brave - Telemetrie
+metrics.brave.com
+
+# Vivaldi Browser - Tracking/Telemetrie
+metrics.vivaldi.com
+
+# Google Chrome - Tracking/Telemetrie
+clients6.google.com
+
+
+
+# -------------------------------------------------
+# Gaming Dienste - Tracking/Telemetrie
+# -------------------------------------------------
+
+# FACEIT - Tracking/Telemetrie
+analytics.faceitanalytics.com
+
+# Epic Games - Tracking/Telemetrie
+tracking.epicgames.com
+
+# Riot Games - Tracking/Telemetrie
+tracking.riotgames.com
+
+# Steam - Werbung
+steamads.com
+
+
+
+# -------------------------------------------------
+# Sonstige Dienste (online Dienste)
+# -------------------------------------------------
+
 # Adobe - Tracking/Telemetrie
 adobetag.com
 
+# freesound.org
+analytics.freesound.org
+
+# Cloudflare
+static.cloudflareinsights.com
 
 
-# Gaming Dienste - Tracking/Telemetrie
-analytics.faceitanalytics.com
-tracking.epicgames.com
 
+# -------------------------------------------------
+# Apple - Tracking/Telemetrie
+# -------------------------------------------------
 
+# Apple - Tracking/Telemetrie in der Wetterapp
+weather-analytics-events.apple.com
 
 # Apple - Tracking/Telemetrie
-analytics.dortania.com
-weather-analytics-events.apple.com
-static.gc.apple.com
-gsp10-ssl.ls.apple.com
 stats.ls.apple.com
+
+# Apple - Standortverfolgung
+gsp10-ssl.ls.apple.com
+
+# Drittanbieter-Dienste
+analytics.dortania.com
 
 
