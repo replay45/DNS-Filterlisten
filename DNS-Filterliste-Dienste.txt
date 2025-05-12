@@ -5,13 +5,14 @@
 # Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 # Weitere Infos: siehe GitHub-Repository
 # erstellt am 5.5.2025
-# letztes Update: 6.5.2025
+# letztes Update: 10.5.2025
 
 
 
 # chinesische Dienste
-www.163.com
-www.qq.com
-www.sohu.com
+# Diese Domains sind chinesiche Suchmaschienen, Webportale, Internetunternehmen und qq.com (Instant-Messaging-Dienst) gehört zu Tencent, einem chinesichen Konzern
 www.baidu.com
+www.163.com
 www.sina.com
+www.sohu.com
+www.qq.com
