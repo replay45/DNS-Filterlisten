@@ -5,54 +5,99 @@
 # Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 # Weitere Infos: siehe GitHub-Repository
 # erstellt am 5.5.2025
-# letztes Update: 6.5.2025
+# letztes Update: 12.5.2025
 
 
 
-# Ad- & Werbenetzwerke
-delivery.openx.net
-a.openx.net
-secure.adnxs.com
-ads.pubmatic.com
+# -------------------------------------------------
+#  Ad- & Werbenetzwerke
+# -------------------------------------------------
+
+# Adnxs (AppNexus) – Werbung & Nutzer-Tracking
 ib.adnxs.com
-static.criteo.net
+secure.adnxs.com
+
+# Criteo - personalisierte Werbung & Retargeting
+# Retargeting = Nutzer wird über Seiten hinweg getrackt.
 cas.criteo.com
-pixel.quantserve.com
+static.criteo.net
+
+# OpenX – programmatische Werbung
+a.openx.net
+delivery.openx.net
+
+# PubMatic - Sell-Side-Plattform für programmatic Advertising
+ads.pubmatic.com
+
+# Quantserve - Tracking & Zielgruppenanalyse
 edge.quantserve.com
+pixel.quantserve.com
+
+# Rubicon Project - Supply-Side-Plattform (SSP)
 delivery.rubiconproject.com
 fastlane.rubiconproject.com
 
 
 
-# Web-Analytics & Session-Replay
-mc.yandex.ru
+# -------------------------------------------------
+#  Web-Analytics & Session-Replay
+# -------------------------------------------------
+
+# Yandex Metrica – Web-Analytics
 mc.yandex.com
+mc.yandex.ru
+
+# Mixpanel – Nutzungsanalyse & Web-Analytics
 cdn.mxpnl.com
 api.mixpanel.com
-api.amplitude.com
+
+# Amplitude – Produkt-Analytics
 d1.amplitude.com
-script.hotjar.com
+api.amplitude.com
+
+# Hotjar – Session-Replay & Heatmaps
 in.hotjar.com
+script.hotjar.com
+
+# Sentry – Fehlerüberwachung & Crash-Reporting
 browser.sentry-cdn.com
 sentry.io
+
+# Segment – Telemetrie & Daten-Pipeline
 cdn.segment.com
 api.segment.io
 
 
 
-# APM & Entwickler-Telemetrie
-js-agent.newrelic.com
-bam.nr-data.net
-logs.browser-intake-datadoghq.com
-raygun.io
+# -------------------------------------------------
+#  APM & Entwickler-Telemetrie
+# -------------------------------------------------
+
+# AppDynamics – Performance-Monitoring
 saas.appdynamics.com
 
+# DataDog – Logging & Performance-Monitoring
+logs.browser-intake-datadoghq.com
+
+# New Relic – Performance-Monitoring & Telemetrie
+bam.nr-data.net
+js-agent.newrelic.com
+
+# Raygun – Fehlerüberwachung & Crash-Reporting
+raygun.io
 
 
-# Sonstige CDN-basierte Trackingskripte
+
+# -------------------------------------------------
+#  Sonstige CDN-basierte Trackingskripte
+# -------------------------------------------------
+
+# Tealium (tags.tiqcdn.com) – Tag-Management & Tracking
 tags.tiqcdn.com
+
+# Intercom – Kundenkommunikation & Nutzer-Tracking
 widget.intercom.io
 mcdn.intercom.io
+
+# Drift – Chat-Widget & Lead-Erfassung
 js.driftt.com
-
-
