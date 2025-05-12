@@ -5,7 +5,7 @@
 # Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 # Weitere Infos: siehe GitHub-Repository
 # erstellt am 5.5.2025
-# letztes Update: 10.5.2025
+# letztes Update: 12.5.2025
 
 
 
@@ -128,14 +128,15 @@ analytics.tiktok.com
 # -------------------------------------------------
 
 # Instagram - Tracking/Telemetrie
-graph-fallback.instagram.com
 graph.instagram.com
+graph-fallback.instagram.com
 ads.instagram.com
 
-# Facebook - Tracking/Telemetrie
-pixel.facebook.com
+# Facebook - Tracking/Telemetrie/Werbung
 graph.facebook.com
+graph-fallback.facebook.com
 ads.facebook.com
+pixel.facebook.com
 business.facebook.com
 analytics.facebook.com
 
@@ -231,5 +232,3 @@ gsp10-ssl.ls.apple.com
 
 # Drittanbieter-Dienste
 analytics.dortania.com
-
-
