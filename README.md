@@ -5,15 +5,15 @@
 
 
 ## Weitere Blocklisten & Empfehlungen
-- Für Empfehlungen zu Blocklisten und Hinweise wie man selbst eigene erstellen kann, sind in der Anleitung [Pi-hole](https://github.com/replay45/Linux-RaspberryPI-NextCloud/tree/main/raspberry-pi) zu finden.
+- Für Empfehlungen zu Blocklisten und Hinweise wie man selbst eigene erstellen kann, sind in der [Anleitung zu Pi-hole](https://github.com/replay45/Linux-RaspberryPI-NextCloud/tree/main/raspberry-pi) zu finden.
 
 
 --------------------------------------------------------------------------
 
 
 # Pi hole
-- Die Installation & Einrichtung von Pi hole, wird ebenfalls in der Anleitung [Pi-hole](https://github.com/replay45/Linux-RaspberryPI-NextCloud/tree/main/raspberry-pi) gezeigt.
-- Dort finden sich auch weitere Informationen zu DNS-Filterlisten und dem Raspberry Pi.
+- Die Installation & Einrichtung von Pi hole, wird ebenfalls in der [Anleitung zu Pi-hole](https://github.com/replay45/Linux-RaspberryPI-NextCloud/tree/main/raspberry-pi) gezeigt.
+- Dort finden sich auch weitere Informationen zum DNS-Server, den DNS-Filterlisten und dem [Raspberry Pi](https://www.raspberrypi.com/).
 
 
 --------------------------------------------------------------------------
@@ -30,3 +30,6 @@
 - Unter `Lists` kann der Status der einzelnen Listen eingesehen werden
   - Eine Liste auswählen, und prüfen, ob eine Zahl hinter `Number of entries` steht.
   - Hinter `Number of non-domains` sollte idealerweise `0` stehen.
+
+
+--------------------------------------------------------------------------
