@@ -16,3 +16,8 @@ baidu.com
 sina.com
 sohu.com
 qq.com
+www.baidu.com
+www.163.com
+www.sina.com
+www.sohu.com
+www.qq.com
