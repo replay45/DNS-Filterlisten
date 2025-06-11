@@ -5,7 +5,7 @@
 # Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 # Weitere Infos: siehe GitHub-Repository
 # erstellt am 5.5.2025
-# letztes Update: 12.5.2025
+# letztes Update: 21.5.2025
 
 
 
@@ -14,6 +14,7 @@
 # -------------------------------------------------
 
 # Adnxs (AppNexus) – Werbung & Nutzer-Tracking
+adnxs.com
 ib.adnxs.com
 secure.adnxs.com
 
@@ -101,3 +102,6 @@ mcdn.intercom.io
 
 # Drift – Chat-Widget & Lead-Erfassung
 js.driftt.com
+
+
+
