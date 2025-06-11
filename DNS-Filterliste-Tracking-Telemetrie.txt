@@ -5,7 +5,7 @@
 # Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 # Weitere Infos: siehe GitHub-Repository
 # erstellt am 5.5.2025
-# letztes Update: 12.5.2025
+# letztes Update: 21.5.2025
 
 
 
@@ -95,6 +95,8 @@ config.samsungads.com
 # Samsung - Tracking/Telemetrie
 insights.samsung.com
 analytics.bigdata.samsung.com
+log.sec.samsung.net
+smetrics.samsung.com
 
 # Samsungknox - Tracking/Telemetrie
 analytics.samsungknox.com
@@ -208,6 +210,7 @@ steamads.com
 
 # Adobe - Tracking/Telemetrie
 adobetag.com
+adobedtm.com
 
 # freesound.org
 analytics.freesound.org
@@ -232,3 +235,5 @@ gsp10-ssl.ls.apple.com
 
 # Drittanbieter-Dienste
 analytics.dortania.com
+
+
