@@ -5,12 +5,12 @@
 # Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 # Weitere Infos: siehe GitHub-Repository
 # erstellt am 5.5.2025
-# letztes Update: 21.5.2025
+# letztes Update: 1.9.2025
 
 
 
 # -------------------------------------------------
-#  Microsoft - Tracking/Telemetrie
+#  Microsoft - Tracking/Telemetrie/Analyse
 # -------------------------------------------------
 
 # Microsoft - Windows - Tracking/Telemetrie
@@ -36,6 +36,9 @@ fp.msedge.net
 # Microsoft Xbox und Xbox Live - Tracking/Telemetrie
 telemetry.xboxlive.com
 xboxtracking.com
+
+# Microsoft Teams/ Office365 - Telemetrie, Diagnose, Analyse
+eu-teams.events.data.microsoft.com
 
 
 
@@ -205,22 +208,6 @@ steamads.com
 
 
 # -------------------------------------------------
-# Sonstige Dienste (online Dienste)
-# -------------------------------------------------
-
-# Adobe - Tracking/Telemetrie
-adobetag.com
-adobedtm.com
-
-# freesound.org
-analytics.freesound.org
-
-# Cloudflare
-static.cloudflareinsights.com
-
-
-
-# -------------------------------------------------
 # Apple - Tracking/Telemetrie
 # -------------------------------------------------
 
@@ -237,3 +224,21 @@ gsp10-ssl.ls.apple.com
 analytics.dortania.com
 
 
+
+# -------------------------------------------------
+# Sonstige Dienste (online Dienste)
+# -------------------------------------------------
+
+# Adobe - Tracking/Telemetrie
+adobetag.com
+adobedtm.com
+
+# freesound.org
+analytics.freesound.org
+
+# Cloudflare
+static.cloudflareinsights.com
+
+# Disney+ (Streamingdienst) - Werbung
+ads.digital.disneyadvertising.com
+eu-central-1.ads.digital.disneyadvertising.com
