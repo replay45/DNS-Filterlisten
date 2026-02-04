@@ -59,6 +59,7 @@ region1.google-analytics.com
 region2.google-analytics.com
 connectivitycheck.gstatic.com
 analytics.google.com
+optimizationguide-pa.googleapis.com
 
 # Google - Werbung
 ads.google.com
@@ -135,6 +136,7 @@ analytics.tiktok.com
 # Instagram - Tracking/Telemetrie
 graph.instagram.com
 graph-fallback.instagram.com
+i-fallback.instagram.com
 ads.instagram.com
 
 # Facebook - Tracking/Telemetrie/Werbung
