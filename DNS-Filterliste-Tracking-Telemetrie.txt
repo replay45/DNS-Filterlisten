@@ -5,7 +5,7 @@
 # Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 # Weitere Infos: siehe GitHub-Repository
 # erstellt am 5.5.2025
-# letztes Update: 1.9.2025
+# letztes Update: 4.2.2026
 
 
 
