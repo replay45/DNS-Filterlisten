@@ -4,13 +4,13 @@
 - Die Zusammenstellung basiert auf persönlicher Erfahrung.
 
 ## Weitere Blocklisten & Empfehlungen
-- Für Empfehlungen zu Blocklisten und Hinweise, wie man selbst eigene Blocklisten erstellen kann, sind in der [Anleitung zu Pi-hole](https://github.com/replay45/Linux-RaspberryPI-NextCloud/tree/main/raspberry-pi) zu finden.
+- Für Empfehlungen zu Blocklisten und Hinweise, wie man selbst eigene Blocklisten erstellen kann, sind in der [Anleitung zu Pi-hole]([https://github.com/replay45/Linux-RaspberryPI-NextCloud/tree/main/raspberry-pi](https://github.com/replay45/Linux-RaspberryPI-NextCloud/tree/main/dns-server) zu finden.
 
 --------------------------------------------------------------------------
 
 ## Pi hole
-- Die Installation & Einrichtung von Pi hole, wird ebenfalls in der [Anleitung zu Pi-hole](https://github.com/replay45/Linux-RaspberryPI-NextCloud/tree/main/raspberry-pi) gezeigt.
-- Dort finden sich auch weitere Informationen zum DNS-Server, den DNS-Filterlisten und dem [Raspberry Pi](https://www.raspberrypi.com/).
+- Die Installation & Einrichtung von Pi hole, wird ebenfalls in der [Anleitung zu Pi-hole]([https://github.com/replay45/Linux-RaspberryPI-NextCloud/tree/main/raspberry-pi](https://github.com/replay45/Linux-RaspberryPI-NextCloud/tree/main/dns-server) gezeigt.
+- Dort finden sich auch weitere Informationen zu DNS-Servern, den Forwardern und den DNS-Filterlisten.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
