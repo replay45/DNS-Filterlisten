@@ -13,15 +13,19 @@
 #  Microsoft - Tracking/Telemetrie/Analyse
 # -------------------------------------------------
 
-# Microsoft - Windows - Tracking/Telemetrie
+# Microsoft - Tracking/Telemetrie
 mobile.events.data.microsoft.com
 v10.events.data.microsoft.com
+v20.events.data.microsoft.com
 self.events.data.microsoft.com
 settings-win.data.microsoft.com
 vortex.data.microsoft.com
 telemetry.microsoft.com
 telecommand.telemetry.microsoft.com
 watson.telemetry.microsoft.com
+array806.prod.do.dsp.mp.microsoft.com
+kv801.prod.do.dsp.mp.microsoft.com
+sqm.microsoft.com
 
 # Microsoft Edge (Browser) & Bing (Suchmaschine) - Tracking/Telemetrie/Fingerprinting
 bingads.microsoft.com
@@ -32,6 +36,7 @@ bat.bing.com
 r.bing.com
 t-ring-fallback.msedge.net
 fp.msedge.net
+edge-microsoft-com.ax-0002.ax-msedge.net
 
 # Microsoft Xbox und Xbox Live - Tracking/Telemetrie
 telemetry.xboxlive.com
