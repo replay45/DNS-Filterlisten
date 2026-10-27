@@ -43,6 +43,8 @@ msn.com
 www.msn.com
 ads.msn.com
 a.msn.com
+arc.msn.com
+assets.msn.com
 
 # -------------------------------------------------
 # Bixby (Telemetrie/Tracking & Sprachdaten/Mikrofonaufnahmen & ACR/Inhaltserkennung)
