@@ -5,7 +5,7 @@
 # Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 # Weitere Infos: siehe GitHub-Repository
 # erstellt am 5.5.2025
-# letztes Update: 17.6.2026
+# letztes Update: 27.10.2026
 
 
 
@@ -20,32 +20,43 @@ v20.events.data.microsoft.com
 self.events.data.microsoft.com
 settings-win.data.microsoft.com
 vortex.data.microsoft.com
+watson.microsoft.com
 telemetry.microsoft.com
 telecommand.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 array806.prod.do.dsp.mp.microsoft.com
 kv801.prod.do.dsp.mp.microsoft.com
 sqm.microsoft.com
+feedback.microsoft.com
+survey.microsoft.com
 
 # Microsoft Edge (Browser) & Bing (Suchmaschine) - Tracking/Telemetrie/Fingerprinting
 bingads.microsoft.com
 advertise.bingads.microsoft.com
 browser.events.data.microsoft.com
 telemetry.appex.bing.net
+ads.bing.com
 bat.bing.com
 r.bing.com
 t-ring-fallback.msedge.net
+platform.bing.com
+aclick.bing.com
+cn.bing.com
+th.bing.com
 fp.msedge.net
 edge-microsoft-com.ax-0002.ax-msedge.net
+ax-0001.ax-msedge.net
+www-bing-com.ax-0001.ax-msedge.net
+
 
 # Microsoft Xbox und Xbox Live - Tracking/Telemetrie
 telemetry.xboxlive.com
 xboxtracking.com
 
-# Microsoft Teams/ Office365 - Telemetrie, Diagnose, Analyse
+# Microsoft Teams/ Office (365) - Telemetrie, Diagnose, Analyse
 eu-teams.events.data.microsoft.com
-
-
+oca.telemetry.microsoft.com
+officeclient.microsoft.com
 
 # -------------------------------------------------
 # Google - Tracking/Telemetrie/Werbung
