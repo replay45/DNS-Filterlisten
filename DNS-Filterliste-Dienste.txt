@@ -5,12 +5,14 @@
 # Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 # Weitere Infos: siehe GitHub-Repository
 # erstellt am 5.5.2025
-# letztes Update: 3.6.2025
+# letztes Update: 27.10.2026
 
 
-
+# -------------------------------------------------
 # chinesische Dienste
-# Diese Domains sind chinesiche Suchmaschienen, Webportale, Internetunternehmen und qq.com (Instant-Messaging-Dienst) gehört zu Tencent, einem chinesichen Konzern
+# Diese Domains sind chinesiche Suchmaschienen, Webportale, Internetunternehmen und qq.com (Instant-Messaging-Dienst) gehört zu Tencent
+# -------------------------------------------------
+
 baidu.com
 163.com
 sina.com
@@ -21,3 +23,75 @@ www.163.com
 www.sina.com
 www.sohu.com
 www.qq.com
+
+# -------------------------------------------------
+# Microsoft Bing
+# -------------------------------------------------
+
+bing.com
+www.bing.com
+platform.bing.com
+cn.bing.com
+th.bing.com
+ads.bing.com
+
+# -------------------------------------------------
+# Microsoft MSN
+# -------------------------------------------------
+
+msn.com
+www.msn.com
+ads.msn.com
+a.msn.com
+
+# -------------------------------------------------
+# Bixby (Telemetrie/Tracking & Sprachdaten/Mikrofonaufnahmen & ACR/Inhaltserkennung)
+# -------------------------------------------------
+
+acr-eu-prd.samsungcloud.tv
+acr-us-prd.samsungcloud.tv
+acr-kr-prd.samsungcloud.tv
+acr-au-prd.samsungcloud.tv
+acr-br-prd.samsungcloud.tv
+acr-ca-prd.samsungcloud.tv
+acr-in-prd.samsungcloud.tv
+acr-mx-prd.samsungcloud.tv
+log-ingestion.samsungacr.com
+log-ingestion-eu.samsungacr.com
+log-ingestion-ap2.samsungacr.com
+log-ingestion-kr.samsungacr.com
+log-ingestion-sa.samsungacr.com
+log-ingestion-v1-ap2.samsungacr.com
+log-ingestion-v2-ap2.samsungacr.com
+log-config.samsungacr.com
+s3-config.samsungacr.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+lcprd1.samsungcloudsolution.net
+
+# -------------------------------------------------
+# Samsung Diagnosedaten/ Gerätedaten
+# -------------------------------------------------
+
+diagmon-policy.samsungdm.com
+diagmon-serviceapi.samsungdm.com
+report.gras.samsungdm.com
+devicelog.samsungcloudsolution.net
+prderrordumphsm.samsungcloudsolution.com
+prderrordumpssm.samsungcloudsolution.net
+
+# -------------------------------------------------
+# Samsung Werbung & Analytics
+# -------------------------------------------------
+
+samsungads.com
+samsungadhub.com
+samsungtvads.com
+samsungtv-d.openx.net
+nmetrics.samsung.com
+smetrics.samsung.com
+insights.samsung.com
+bigdata.ssp.samsung.com
+event-tracking.samsung.com
+samsung.demdex.net
+fast.samsung.omtrdc.net
