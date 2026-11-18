@@ -5,12 +5,12 @@
 # Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
 # Weitere Infos: siehe GitHub-Repository
 # erstellt am 5.5.2025
-# letztes Update: 27.10.2026
+# letztes Update: 18.11.2026
 
 
 # -------------------------------------------------
 # chinesische Dienste
-# Diese Domains sind chinesiche Suchmaschienen, Webportale, Internetunternehmen und qq.com (Instant-Messaging-Dienst) gehört zu Tencent
+# Diese Domains sind chinesiche Suchmaschinen, Webportale, Internetunternehmen und qq.com (Instant-Messaging-Dienst) gehört zu Tencent
 # -------------------------------------------------
 
 baidu.com
@@ -30,10 +30,19 @@ www.qq.com
 
 bing.com
 www.bing.com
+www1.bing.com
+www2.bing.com
+www3.bing.com
+www4.bing.com
+wp.m.bing.com
 platform.bing.com
 cn.bing.com
 th.bing.com
 ads.bing.com
+wp.m.bing.com
+www-bing-com.ax-0001.ax-msedge.net
+ax-0001.ax-msedge.net
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 
 # -------------------------------------------------
 # Microsoft MSN
